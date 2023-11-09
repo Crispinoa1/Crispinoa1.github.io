@@ -20,3 +20,6 @@ https://montclair0-my.sharepoint.com/:w:/g/personal/crispinoa1_montclair_edu/EUi
 
 ### Presentation
 https://montclair0-my.sharepoint.com/:p:/g/personal/crispinoa1_montclair_edu/EVqOpKAgCA9CsT-wtcCg1YQBknmrL8AUF_l5EpBr5Gf8NQ?e=fPtvRm 
+
+### Abstract 
+With this assigment I made the website and added all my subtopic in a table with all my info so that you can access all of it.
